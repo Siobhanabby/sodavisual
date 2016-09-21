@@ -94,3 +94,46 @@ body{
 #box img{
 	width: 100%;
 }
+
+/*------------------------ CONTACTS ---------------------- */
+#contact{
+	background-color: #FFFFFF;
+}
+
+
+#contacttitle{
+	font-size: 2em;
+	font-family: 'Poppins', sans-serif;
+	padding: 10px 20px 0px 0px;
+	font-weight: 700;
+	margin: 10px;
+}
+
+#contacttitle p{
+	font-size: 0.5em;
+	font-family: 'Poppins', sans-serif;
+	padding: 10px 0px 0px 0px;
+	font-weight: 300;
+}
+
+#form{
+	margin: 10px;
+	font-size: 0.8em;
+	font-family: 'Poppins', sans-serif;
+	padding: 10px 0px 0px 0px;
+	font-weight: 400;
+}
+
+input, textarea{
+	background-color: #f2f3f3;
+	border: none;
+	padding: 10px;
+}
+
+#submit{
+	width: 275px;
+	height: 30px;
+	background-color: #286191;
+	color: #FFFFFF;
+	padding: 10px;
+}
