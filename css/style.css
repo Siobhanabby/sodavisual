@@ -137,3 +137,12 @@ input, textarea{
 	color: #FFFFFF;
 	padding: 10px;
 }
+
+
+/*------------------------ FOOTER ---------------------- */
+#footer{
+	background-color: black;
+	color: #FFFFFF;
+	margin: 0px;
+	padding: 10px;
+}
