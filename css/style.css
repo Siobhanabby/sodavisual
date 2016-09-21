@@ -65,3 +65,32 @@ body{
 	font-weight: 300;
 }
 
+/*------------------------ CLIENTS ---------------------- */
+#clients{
+	margin: 0px;
+	padding: 10px;
+	background-image: url(../img/clients_bg.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+#clientstitle{
+	font-size: 2.3em;
+	font-family: 'Poppins', sans-serif;
+	padding: 10px 0px 0px 0px;
+	font-weight: 700;
+	color: #FFFFFF;
+	margin: 30px;
+}
+
+#box{
+	background-color: #21303d;
+	padding: 15px;
+	margin: 20px;
+	width: 14%;
+	max-width: 16%;
+}
+
+#box img{
+	width: 100%;
+}
